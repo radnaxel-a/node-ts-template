@@ -1,0 +1,19 @@
+{
+  "name": "node-ts-template",
+  "version": "1.0.0",
+  "description": "TS project template for node",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "type-script",
+    "node",
+    "template"
+  ],
+  "author": "radnaxel-a",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
